@@ -22,8 +22,8 @@ npm run build --report
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Quavo
+[Quang Vo](quang.vo.code@gmail.com)
 
 ### Version
 
